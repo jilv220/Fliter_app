@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Fliter_app</string>
+    <string name="subit_image">Subit your image here</string>
+    <TextView
+        android:id="@+id/simpleTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="AbhiAndroid"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+</resources>
+
+
